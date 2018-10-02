@@ -1,5 +1,5 @@
 ---
-title: Introduction to Fuze box
+title: More progress on Fuze box
 layout: post
 author: joshua.shand-duggan
 permalink: /introduction-to-it/
@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Introduction to Fuze box</td>
+    <td>More progress on fuze box</td>
     <td>Date</td>
-    <td>11/09/18</td>
+    <td>11/09/18 </td>
   </tr>
 </table>
 
@@ -19,16 +19,16 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>Nowhere</td>
+    <td>Where I finished off last lesson</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To work my way through a bit of the manual</td>
+    <td>To make progress at our own pace</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td> Yes </td>
+    <td>Yes</td>
   </tr>
 </table>
 
@@ -41,19 +41,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>I tried my best to listen to Mr Lunnon and worked well with my partner, Theo.</td>
+    <td>I learnt by using the booklet and although we had partners, we worked quite independently.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>We were stuck slightly at the start when most things that we tried to do didn't work.</td>
+    <td>We were stuck slightly when we had written in the code, checked it and it still said that there was an error.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>We need to try to work out what the problem is and sort it out faster than we did the previous time so we can make even more progress.</td>
+    <td>I will ensure that we have thoroughly checked it in order for the code to work.</td>
   </tr>
 </table>
 
