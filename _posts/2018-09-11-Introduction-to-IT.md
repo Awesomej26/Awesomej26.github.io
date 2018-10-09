@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>More progress on fuze box</td>
     <td>Date</td>
-    <td>11/09/18 </td>
+    <td>8/10/18 </td>
   </tr>
 </table>
 
@@ -41,7 +41,7 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>I learnt by using the booklet and although we had partners, we worked quite independently.</td>
+    <td>I learnt by using the booklet and my partner and I worked great as a team and got all the coding done efficiently.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
