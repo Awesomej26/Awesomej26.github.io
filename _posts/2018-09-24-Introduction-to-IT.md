@@ -1,5 +1,5 @@
 ---
-title: Further progress on fuze box
+title: More work on fuze box
 layout: post
 author: joshua.shand-duggan
 permalink: /introduction-to-it/
@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Further progress on fuze box</td>
+    <td>More work on fuze box</td>
     <td>Date</td>
-    <td>24/09/18</td>
+    <td>5/11/18</td>
   </tr>
 </table>
 
@@ -23,7 +23,7 @@ published: true
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To make more progress on the fuze box coding</td>
+    <td>To reach the stage where we moved onto the wire kit</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
@@ -41,19 +41,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>I read the manual carefully and, using the information inside, made more progress in fuze box.</td>
+    <td>I learnt how to plug and code fuze box in order to make the LED flash every other second.</td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <td>What limited my learning? Which habits do I need to </td>
   </tr>
   <tr>
-    <td>The fact that my partner was not present at the IT lesson hindered my progress a bit as it is far easier and faster to work with her partner than to work alone.</td>
+    <td>Our computer/fuze box was unusually difficult to set up and unfortunately took up a lot of our lesson time.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>I will try and overcome any sudden obstacles that might get in the way of my learning such as my partner not being present.</td>
+    <td>I will try hope that the fuze box can be set up as normal and will not require changing monitors or fuze boxes.</td>
   </tr>
 </table>
 
