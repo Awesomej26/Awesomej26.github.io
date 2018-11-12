@@ -1,5 +1,5 @@
 ---
-title: More progress on Fuze box
+title: Further work on fuze box
 layout: post
 author: joshua.shand-duggan
 permalink: /introduction-to-it/
@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>More progress on fuze box</td>
+    <td>Further work on fuze box</td>
     <td>Date</td>
-    <td>8/10/18 </td>
+    <td>11/11/18 </td>
   </tr>
 </table>
 
@@ -23,7 +23,7 @@ published: true
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To make progress at our own pace</td>
+    <td>To start the robotic arm</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
@@ -53,7 +53,7 @@ published: true
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>I will ensure that we have thoroughly checked it in order for the code to work.</td>
+    <td>I will ensure that we have checked the switch on the robotic arm and make sure IT IS ON!</td>
   </tr>
 </table>
 
