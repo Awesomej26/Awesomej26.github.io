@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>More work on fuze box</td>
     <td>Date</td>
-    <td>5/11/18</td>
+    <td>19/11/18</td>
   </tr>
 </table>
 
@@ -23,7 +23,7 @@ published: true
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To reach the stage where we moved onto the wire kit</td>
+    <td>To reach the stage where we made some progress on the robot arm</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
@@ -41,19 +41,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>I learnt how to plug and code fuze box in order to make the LED flash every other second.</td>
+    <td>I learnt how the robot arm worked and why it worked.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to </td>
   </tr>
   <tr>
-    <td>Our computer/fuze box was unusually difficult to set up and unfortunately took up a lot of our lesson time.</td>
+    <td>Our robot arm didn't work at the start and we had to figure this out and get another one.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>I will try hope that the fuze box can be set up as normal and will not require changing monitors or fuze boxes.</td>
+    <td>We will make sure that our robot arm works to begin with.</td>
   </tr>
 </table>
 
