@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>More work on fuze box</td>
+    <td>Even more work  on fuze box</td>
     <td>Date</td>
-    <td>19/11/18</td>
+    <td>3/12/18</td>
   </tr>
 </table>
 
@@ -47,7 +47,7 @@ published: true
     <td>What limited my learning? Which habits do I need to </td>
   </tr>
   <tr>
-    <td>Our robot arm didn't work at the start and we had to figure this out and get another one.</td>
+    <td>Our robot arm didn't work at the start and we had to figure this out and get another one. Also, we had to figure out the correct place to type the code in.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
