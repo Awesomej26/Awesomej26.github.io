@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>More fuze box</td>
+    <td>More and more fuze box</td>
     <td>Date</td>
-    <td>26/11/18 </td>
+    <td>10/12/18</td>
   </tr>
 </table>
 
@@ -53,7 +53,7 @@ published: true
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>I will ensure that we have made sure that we are in the coding area rather than the editor and that the arm has been reset into its starting position.</td>
+    <td>I will ensure that we SAVE our work inbetween coding because last week it crashed!</td>
   </tr>
 </table>
 
