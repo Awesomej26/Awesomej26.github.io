@@ -1,5 +1,5 @@
 ---
-title: More work on fuze box
+title: Starting python 
 layout: post
 author: joshua.shand-duggan
 permalink: /introduction-to-it/
@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Even more work  on fuze box</td>
+    <td>Starting python</td>
     <td>Date</td>
-    <td>3/12/18</td>
+    <td>14/1/19</td>
   </tr>
 </table>
 
@@ -19,11 +19,11 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>Where I left off last time</td>
+    <td>Nowhere</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To reach the stage where we made some progress on the robot arm</td>
+    <td>To begin the python tutorials</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
@@ -41,19 +41,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>I learnt how the robot arm worked and why it worked.</td>
+    <td>I learnt how python worked and why it worked.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to </td>
   </tr>
   <tr>
-    <td>Our robot arm didn't work at the start and we had to figure this out and get another one. Also, we had to figure out the correct place to type the code in.</td>
+    <td>I Had to find the place where the tutorials were and although it was fairly easy, I was confused when there was just a video there.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>We will make sure that our robot arm works to begin with.</td>
+    <td>I now know what to do and will be quicker and faster next time.</td>
   </tr>
 </table>
 
